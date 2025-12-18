@@ -8,6 +8,7 @@ Always curious about full stack development, system design, and problem solving
 ---
 
 ## 👨‍💻 About Me
+- 💻 Software Engineer Intern @IT Starter Pvt Ltd
 - 🎓 Undergraduate Software Engineering Student
 - 🔧 Interested in Full Stack Development and Backend Systems
 - 🚀 Enjoy building real world  projects
