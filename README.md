@@ -18,7 +18,7 @@ Always curious about full stack development, system design, and problem solving
 
 ## 🛠️ Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,mysql,mongodb,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,mysql,mongodb,git,github,laravel" />
 </p>
 
 ---
