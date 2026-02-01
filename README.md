@@ -21,16 +21,6 @@ Always curious about full stack development, system design, and problem solving
 <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,mysql,mongodb,git,github,laravel" />
 </p>
 
----
-
-## 📊 GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Aathi125&show_icons=true&theme=dark" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aathi125&layout=compact&theme=dark" />
-</p>
 
 ---
 
