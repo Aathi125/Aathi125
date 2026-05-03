@@ -24,7 +24,7 @@ Always curious about full stack development, system design, and problem solving
 ---
 ## 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aathi125&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=F1E05A&border_radius=10&hide_border=true" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Aathi125&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ## 🔗 Connect with Me
